@@ -3,7 +3,7 @@
 LegendQuest
 ===========
 
-LegendQuest is a RPG plugin for MineCraft servers using the Bukkit API.
+LegendQuest is a RPG plugin for MineCraft servers using the Bukkit API.  - runs on 1.9 and earlier versions
 
 Created to power LegendQuests MMORPG servers, with it players are able to become heroes and shape their character with a wide range of races, classes and skills.
 
